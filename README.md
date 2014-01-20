@@ -1,4 +1,4 @@
-simple-sound-visualizer
+simpleSoundVisualizer on Processing
 =======================
 
 simple Visualizer for sound.
