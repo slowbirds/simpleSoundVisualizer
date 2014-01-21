@@ -1,4 +1,5 @@
 *.class
+application.*
 
 # Package Files #
 *.jar
